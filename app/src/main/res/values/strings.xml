@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caja Ágil</string>
+    <string name="press_back_again_to_exit">Presiona Atrás nuevamente para salir</string>
+    <string name="share_excel_chooser_title">Compartir archivo Excel</string>
+    <string name="error_export_excel">No se pudo exportar el archivo Excel</string>
+    <string name="error_open_gallery">No se pudo abrir la galería de imágenes</string>
+</resources>

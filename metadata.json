@@ -1,0 +1,6 @@
+{
+  "name": "Caja Ágil",
+  "description": "Envoltorio WebView nativo a pantalla completa para el sistema local de caja, conteo de efectivo, movimientos y cierre con exportación a Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
